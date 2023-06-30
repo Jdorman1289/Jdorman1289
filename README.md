@@ -13,14 +13,14 @@
     <img src="https://img.shields.io/badge/Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
----
+
 
 ### :man_technologist: About Me :
 # Jesse Dorman
 ## Full-Stack Software Developer
 
 Highly experienced technology professional with a strong background in the Linux operating system. Proven ability to troubleshoot complex software issues and an excellent command over Back-end and Front-End languages. Holds an AA in Meteorology, a CompTIA Security Plus certification, and a Codeup graduation certificate.
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -34,6 +34,9 @@ Highly experienced technology professional with a strong background in the Linux
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
 </div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jdorman1289&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdorman1289&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
