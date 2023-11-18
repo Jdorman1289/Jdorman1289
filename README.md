@@ -40,5 +40,5 @@ Highly experienced technology professional with a strong background in the Linux
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jdorman1289&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdorman1289&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
